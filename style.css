@@ -1,0 +1,14 @@
+body{
+    background-color: royalblue;
+    color: beige;
+}
+
+.name_of_objects{
+    color: silver;
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border:1px solid black;
+}
